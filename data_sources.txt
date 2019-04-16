@@ -1,0 +1,11 @@
+https://www.nih.gov/news-events/news-releases/nih-clinical-center-releases-dataset-32000-ct-images,https://nihcc.app.box.com/v/DeepLesion
+
+http://headctstudy.qure.ai/dataset
+
+	We provide a list of files to be downloaded in a text file. Here is the text file: cq500_files.txt.
+
+	You can use wget or aria2 to download all the files as follows:
+
+	$ wget -i cq500_files.txt # If you have wget
+	$ aria2c -x5 -i cq500_files.txt # If you have aria2, recommended
+
