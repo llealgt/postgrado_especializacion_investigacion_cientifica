@@ -1,0 +1,325 @@
+​ 
+
+​
+Page Break
+​ 
+
+APLICACIÓN DE LA INTELIGENCIA ARTIFICIAL EN EL CAMPO DE LA MEDICINA EN GUATEMALA 
+
+​​Leal Luis, Letona Diana, Castillo Marvin, Aspuac Mildred, Ramírez Erick, Juárez Luis​ 
+
+​​Universidad de San Carlos de Guatemala​ 
+
+ 
+
+​​​ 
+
+Page Break
+ 
+
+Abstract 
+
+ 
+
+ 
+
+ 
+
+Estudio comparativo para determinar el tipo de conocimiento acerca de la inteligencia artificial y su aplicación en el campo de la medicina, en familiares de pacientes y pacientes a quienes les han realizado tomografías cerebrales en los últimos 5 años en Guatemala y fueron captados en las redes sociales entre 5 y 15 de abril del 2019 y estudiantes de postgrado de especialización en investigación científica de la Facultad de Ingeniería de la Universidad de San Carlos de Guatemala. 
+
+ 
+
+Palabras clave:  inteligencia artificial, tomografías, Guatemala, expertos, radiólogo, neurología
+Page Break
+ 
+
+Page Break
+ 
+
+INTRODUCCIÓN 
+
+ 
+
+Recordar incluir la experiencia del grupo en:  el momento de planteamiento, durante ele levantamiento de datos, durante la clasificación, interpretación y análisis de los datos) 
+
+La inteligencia artificial que se define como “el diseño y construcción de agentes inteligentes que perciben el ambiente y toman acciones que afectan ese ambiente” ​(Stuart Russell, 2010)​, está teniendo un papel protagonista en la vida diaria de las personas, desde automóviles que se conducen solos hasta <Insertar aplicación cool acá>.  
+
+ 
+
+Una aplicación que ha ganado popularidad durante las últimas décadas, es la del campo de la medicina, en la que se han conformado equipos interdisciplinarios en los que se busca solventar problemas de salud mediante la aplicación de técnicas propias de una rama de la inteligencia artificial a diversos problemas médicos o bien se trabaja sobre una rama específica de la medicina y se se aplican diversas técnicas de distintas ramas de la inteligencia artificial para solventar los problemas. 
+
+ 
+
+El tema de la inteligencia artificial en Guatemala se encuentra en una etapa de maduración en la cual solamente pequeños sectores de la población tienen conocimiento de este tema y sus aplicaciones. La presente investigación se enfoca en el estudio del tipo de conocimiento de la inteligencia artificial y su aplicación en la interpretación de tomografías cerebrales dentro de la republica de Guatemala. 
+
+ 
+
+Dicho estudio se ha enfocado en personas que se han sometido al proceso de tomografía o a familiares de personas que han sido sometidas a dicho proceso en un periodo no mayor de cinco años con las siguientes características: personas mayores de dieciocho años, sin distinción de género, con una escolaridad no menor a educación media, sin distinción de ocupación y que residan dentro de la republica de Guatemala. 
+
+ 
+
+Para dicho estudio se utilizaron encuestas digitales y un sistema de muestreo aleatorio simple, luego del análisis de las encuestas se obtuvo que: <Todos los resultados (no detallado)> 
+
+  
+
+https://books.google.com.gt/books?id=tRDSBQAAQBAJ&printsec=frontcover&dq=artificial+intelligence+medicine&hl=en&sa=X&ved=0ahUKEwiixrzmz9LhAhUtrlkKHZeUBzgQ6AEIKDAA#v=onepage&q=artificial%20intelligence%20medicine&f=false 
+
+https://books.google.com.gt/books?id=_EFlDwAAQBAJ&printsec=frontcover&dq=artificial+intelligence+medicine&hl=en&sa=X&ved=0ahUKEwiixrzmz9LhAhUtrlkKHZeUBzgQ6AEILTAB#v=onepage&q=artificial%20intelligence%20medicine&f=false 
+
+ 
+
+ 
+
+ 
+
+Page Break
+ 
+
+ 
+
+PLANTEAMIENTO DEL TEMA 
+
+ 
+
+Uno de los métodos diagnósticos más utilizado por los médicos de todo el mundo para realizar diagnósticos por su capacidad de crear imágenes transversales de todo el cuerpo, por su accesibilidad y por su costo es la tomografía axial computarizada, “procedimiento computarizado de imágenes por rayos X en el que se proyecta un haz angosto de rayos X a un paciente y se gira rápidamente alrededor del cuerpo, produciendo señales que son procesadas por la computadora de la máquina para generar imágenes transversales—o “cortes”—del cuerpo” .  Su uso se aprecia más en las áreas como el cráneo, tórax y abdomen. 
+
+ 
+
+Según Hernández Cruz (2019), la tomografía cerebral (también conocida como craneal o de cabeza) es un estudio no invasivo con el cual se obtienen imágenes tridimensionales en forma de cortes de hasta 8mm de grosor con el cual se pueden detectar diferentes patologías como hemorragias, tumores, hematomas, infartos cerebrales entre otras.  Siendo un método diagnóstico tan útil, los pacientes y sus familiares muchas veces desconocen o no tienen clara la indicación que hubo para realizar el estudio.  Pinsón (2000) en su artículo publicado en la Revista Mexicana de Enfermería Cardiológica “Educación del paciente cardiovascular en los programas de rehabilitación cardíaca” cita a Liddy y Crowley quienes sugieren que los altos niveles de estrés durante la hospitalización contribuyen a la pobre retención de información por parte de los pacientes y sus familiares, quienes retienen menos de la mitad de la información recibida y esta va disminuyendo con el paso del tiempo.  Por ello es que uno de los objetivos de esta investigación fue conocer si los pacientes y sus familiares conocen las indicaciones que hubo para la realización de este estudio (tomografía de craneo) y qué tipo de conocimiento poseen. 
+
+   
+
+La inteligencia artificial definida por Russell (2010) como “el diseño y construcción de agentes inteligentes que perciben el ambiente y toman acciones que afectan ese ambiente”, ha ganado popularidad durante las últimas décadas, en el campo de la medicina se han conformado equipos multidisciplinarios que buscan solventar problemas de salud mediante la aplicación de técnicas propias de una rama de la inteligencia artificial a diversos problemas médicos o bien se trabaja sobre una rama específica de la medicina y se aplican diversas técnicas de ramas de la inteligencia artificial para solventar los problemas. 
+
+ 
+
+El tema de la inteligencia artificial en Guatemala se encuentra en una etapa de maduración, hasta el momento solo pequeños sectores de la población tienen conocimiento del tema y de sus aplicaciones en especial en el campo de la medicina.  Según Leal (2017) en su blog devongt indica que en los últimos años la inteligencia artificial “...se ha vuelto una moda” sin embargo la difusión de esta “moda” se ha visto acompañada de amarillismo.  Además, se estima que el tipo de conocimiento que poseen los pacientes y sus familiares es pragmático o empírico porque los adultos, según describe Pinson (2000) basada en el Modelo educativo de Malcom Knowles, aprenden por la multitud de experiencia de vida las cuales usan como recursos para su propio aprendizaje y adquieren conocimiento cuando tienen una necesidad de información que les ayude a lograr su meta o tarea en su vida.   Por ello uno de los objetivos de esta investigación fue indagar sobre el conocimiento que los pacientes y sus familiares tienen sobre la inteligencia artificial y su aplicación en la interpretación de tomografías y en general en la medicina y los riesgos y beneficios que esta rama del saber implica y compararlo con el saber experto. 
+
+ 
+
+Propuesta metodológica 
+
+ 
+
+Conceptos. 
+
+ 
+
+Inteligencia Artificial 
+
+ 
+
+Se define como “el diseño y construcción de agentes inteligentes que perciben el ambiente y toman acciones que afectan ese ambiente.” ​(Stuart Russell, 2010)​.  Existen diferentes campos de aplicación para esta rama de la informática, como pueden ser el aprendizaje automático (mas conocido por el anglicismo “machine learning”, aprendizaje por refuerzo, visión de computadora, robótica, procesamiento de lenguaje natural, sistemas colaborativos, por mencionar algunos.  Es una de las ciencias de la información con mayor crecimiento en los últimos años, tanto en sus avances como en su exposición, tanto por redes sociales como la prensa, aunque algunas veces rodeada de exageraciones por esta última.  Cabe destacar que la inteligencia artificial no solo busca “el comprender, sino que también el construir entidades inteligentes.” ​(Stuart Russell, 2010)​ 
+
+ 
+
+Visión por computadora 
+
+ 
+
+Al hablar de visión de computadora, o el anglicismo “computer vision” mayormente utilizado, este se define como un campo interdisciplinario que estudia el cómo las computadoras pueden hacer para obtener una comprensión de alto nivel de imágenes o videos digitales ​(Ballard & Brown, 1982)​. Desde la perspectiva de la ingeniería, busca automatizar las tareas que puede realizar el sistema visual humano.  Para realizar esta tarea, se descomponen las imágenes en diferentes representaciones, en el caso de los mismos ​(Ballard & Brown, p. 7)​ nos dicen que en un principio ellos definieron cuatro: icónica, segmentada, geométrica y relacional. 
+
+ 
+
+Tomografía cerebral. 
+
+ 
+
+Una de las herramientas utilizadas por los médicos de todo el mundo para realizar diagnósticos de muchos padecimientos es la tomografía, “...procedimiento computarizado de imágenes por rayos X en el que se proyecta un haz angosto de rayos X a un paciente y se gira rápidamente alrededor del cuerpo, produciendo señales que son procesadas por la computadora de la máquina para generar imágenes transversales—o “cortes”—del cuerpo” 
+
+ 
+
+Comúnmente cuando se piensa en tomografías viene a la mente su carácter de uso médico, pero también es posible el utilizarla en diferentes áreas, como por ejemplo la tomografía sísmica.  Sin embargo, esto se encuentra fuera del objeto de estudio actual.  Dentro de la medicina posiblemente la tomografía axial computarizada y la resonancia magnética son las más conocidas, sino es que las más usadas.  Por su capacidad de crear imágenes transversales del cuerpo, es utilizada en prácticamente todo el cuerpo, pero su uso se aprecia más en las áreas cerebrales, abdominales y torácicas. 
+
+ 
+
+La tomografía cerebral (también conocida como craneal o de cabeza) “es un estudio de imagen no invasivo utilizado como complementación diagnóstica. Esta utiliza los rayos X en forma de espectro continuo, para obtención de imágenes tridimensionales del cuerpo humano en forma de cortes de hasta 8 mm de grosor. Nos es útil para detectar diferentes alteraciones a nivel cerebral como lo son hemorragias, tumores, entre otras.” (Hernandez Cruz, 2019) 
+
+ 
+
+ 
+
+ 
+
+Ilustración 1. Diferentes tomografías cerebrales (Department of Radiology, Uppsala University Hospital., 2008) 
+
+ 
+
+Población. 
+
+ 
+
+La población a encuestar se definió en un principio como pacientes a quienes se les había realizado una tomografía en el Hospital General San Juan de Dios y sus familiares, pero se cambió por las siguientes restricciones: 
+
+Trámite burocrático de autorización para encuestar a la población no experta en el Hospital General no permitiría completar el trabajo de campo en abril. 
+
+Horarios laborales de los expertos dificultaban realizar el trabajo de campo con la población no experta en horario hábil, esto no permitía completar el número de encuestados. 
+
+ 
+Por lo anterior se modificó la población, se consideró más conveniente utilizar los medios digitales actuales y delimitar la población de manera distinta. Se decidió expandir la encuesta a personas que se han realizado una tomografía, sus familiares y amigos en Guatemala en los últimos 5 años.  El formato de la encuesta también cambio de ser presencial a una solución de Google Formularios para poder compartir la encuesta de manera más rápida y eficiente. 
+
+ 
+
+Tabla 1 
+
+Características de la población y delimitación de la muestra encuestada 
+
+Característica 
+
+Valor 
+
+Indicadores socio-demográficos 
+
+Edad: Mayor de 18 años 
+
+Género: Cualquiera 
+
+Escolaridad: Educación media o superior 
+
+Ocupación: Cualquiera 
+
+Tamaño muestra 
+
+60 personas 
+
+Sistema de muestreo 
+
+Aleatorio Simple 
+
+Grupo de estudio 
+
+Estudio experimental 
+
+ 
+
+Muestra. 
+
+ 
+
+Para la elección de la muestra se empezó por afinidad de personas conocidas por el grupo de trabajo, distribuyendo de esta manera la encuesta de manera viral entre las personas que se consideraban parte de la población.  Así, se apuntó al hecho de tener 60 personas como tamaño de muestra, pero por la naturaleza viral, se aceptaron respuestas para mejorar la precisión de los resultados. 
+
+ 
+
+Instrumentos. 
+
+ 
+
+El instrumento utilizado para esta investigación fue una encuesta en Google Formularios para la distribución electrónica y de esa manera alcanzar la muestra seleccionada de la población.  Se definió un perfil de entrevistador el cual todo el grupo posee, el único requisito fue poseer conocimientos medios o avanzados de los objetivos de esta investigación. 
+
+ 
+
+La distribución de la encuesta se realizó por solicitud directa y en redes sociales.  Originalmente se habían planteado tres preguntas, pero se amplió a cinco, todas de respuesta abierta. Así, la encuesta realizada contenía las siguientes interrogantes: 
+
+¿Qué beneficios cree usted que puede tener esta inteligencia artificial en el campo de la medicina? 
+
+Le han realizado una tomografía de cráneo a usted o a un familiar o conocido cercano en los últimos 5 años, ¿para qué le sirvió a su médico este estudio? 
+
+¿Qué beneficio cree que pueda tener la inteligencia artificial en el estudio que su médico le solicitó a su familiar? 
+
+En su opinión, ¿qué beneficios o riesgo puede tener la inteligencia artificial? 
+
+¿Qué otros estudios médicos conoce en los cuales considera se pueda aplicar la inteligencia artificial? 
+
+ 
+
+Consentimiento Informado 
+
+ 
+
+Ilustración 2. Primera parte del consentimiento informado usado en Google Formularios. (Elaboración propia) 
+
+ 
+
+ 
+
+Ilustración 3. Segunda parte del consentimiento informado usado en Google Formularios. (Elaboración propia) 
+
+Page Break
+ 
+
+Recogida, Clasificación y Sistematización de información 
+
+Recolección de la información. 
+
+ 
+
+Para la recolección de la información se utilizó Google formularios, y para la extracción de las respuestas evitando su manipulación, se utilizó la herramienta integrada dentro esta aplicación.  Se generó un documento con texto separado por comas para utilizarse en las siguientes fases para análisis.  Es importante destacar que las preguntas planteadas consideran las respuestas y conocimiento tanto de no expertos como de expertos.   Se recolectaron direcciones de correo electrónico con el propósito de enviar el conocimiento informado, por lo tanto, este no será utilizado para ningún propósito de individualización de la información, la cual debe de ser completamente anónima para el propósito de la investigación. 
+
+ 
+
+Clasificación de la información 
+
+ 
+
+Sistematización de la información 
+
+ 
+
+Como primera parte de la sistematización de la investigación se espera la publicación de los resultados obtenidos. La investigación planteada contribuirá a conocer de una manera más objetiva, comprobable y exacta el nivel de conocimiento tanto de la población en general, así como de los expertos en una de las 2 ramas. 
+
+ 
+
+Pregunta o interrogante planteada 
+
+ 
+
+¿Qué tipo de conocimiento tienen los familiares de los pacientes o los pacientes a 
+
+ quienes les han realizado una tomografía cerebral en los últimos 5 años en Guatemala sobre los beneficios y/o riesgos que la Inteligencia Artificial puede aportar a la medicina? 
+
+ 
+
+Page Break
+ 
+
+Justificación del tema 
+
+ 
+
+En los últimos años el uso de la inteligencia artificial a nivel general y en muchas ramas de las ciencias aplicadas, “particularmente del subtipo aprendizaje profundo, ha sido posible por el uso de datos masivos etiquetados, junto con una un crecimiento marcado del poder de procesamiento computacional y el almacenamiento en la nube, en todos los sectores” (Topol, 2019).  Pero particularmente en la medicina, esto ha empezado a tener impacto en tres niveles: “para los médicos clínicos, predominantemente por el uso de una interpretación de imágenes rápida y precisa, para los sistemas de salud, mejorando el flujo de trabajo y el potencial para reducir errores, mientras que finalmente para los pacientes, al permitirles procesar su propia información para mejorar su salud” (Topol, 2019).  Pero debido a la popularidad de las redes sociales y los aspectos negativos y positivos de estas, es necesario, de una manera medible el determinar la opinión pública sobre la inteligencia artificial y su aplicación médica. 
+
+ 
+
+Con una exitosa aplicación de los conocimientos adquiridos es posible ayudar a los médicos a referir con mayor prontitud a un paciente con una patología que pueda comprometer su vida, a reducir los costos de estos estudios en especial en salud pública y en hospitales regionales.  Así mismo, se beneficiarán los médicos porque tomarán decisiones más rápidas y certeras y los pacientes porque recibirán un mejor tratamiento y a costo más bajo. 
+
+ 
+
+La investigación planteada contribuirá a conocer de una manera más objetiva, comprobable y exacta el nivel de conocimiento tanto de la población en general, así como de los expertos en una de las 2 ramas (pero con poco conocimiento respecto de la otra) respecto de los temas, así como la aceptación o disposición a aceptar en la sociedad guatemalteca una solución tecnológica que combine ambas áreas del conocimiento científico. Este estudio producirá como resultado una medida de que tanto difiere el conocimiento experto (científico) respecto del no experto que entra en la dialéctica por sacar conocimiento en base a las contradicciones y tiene movimiento, tanto como funcionalista, ya que estudia también el conocimiento adquirido con base en la comunicación, y como resultado buscamos que al terminar el estudio se tengan nuevos conocimientos de (entre otras cosas).
+Page Break
+ 
+
+TRATAMIENTO DE LA INFORMACIÓN 
+
+Page Break
+ 
+
+CONCLUSIONES Y RECOMENDACIONES 
+
+ 
+
+El conocimiento de las personas no expertas considera que existe beneficios en el uso de la inteligencia artificial como herramienta de ayuda para diagnósticos médicos, es decir una segunda opinión sobre el diagnóstico realizado. Sin embargo, en la ninguno expone exponen casos puntuales limitándose a esperar un diagnostico más preciso incluyendo su asertividad, tiempo de respuesta y costo entre otros. 
+
+Las personas que le han realizado una tomografía de cráneo o a un familiar o conocido cercano, pueden exponer la afección que se quería diagnosticar a través de este examen y su evaluación por un profesional de la medicina. Siendo estos los siguientes: coágulos en el cráneo, isquemia, daño post trauma provocado por un golpe en la cabeza, tumores, avances de enfermedad de Alzheimer. El diagnostico que más se quiso corroborar es la evaluación del daño post trauma provocado por un golpe en la cabeza.  
+
+Respecto a los beneficios expuestos por los encuestados, convergen en su mayoría como una herramienta de diagnóstico como apoyo o en lugar de un profesional de la medicina.  Aun no se menciona casos en específico, únicamente especulaciones en una mayor precisión de diagnóstico e incluso en procedimientos quirúrgicos.  
+
+Se tiene una esperanza en los desarrollos de inteligencia artificial como herramienta y en algunos casos se expone cierta preocupación respecto al desplazamiento de trabajos o la acomodación y entera confianza hacia los agentes inteligentes a la hora de un diagnóstico. En la encuesta no se ha presentado mucho temor, al contrario, se exponen beneficios y aceptación al respecto. 
+
+Respecto a otros estudios médicos donde la inteligencia artificial es aplicable, las personas exponen estudios relacionados a enfermedades cardiovasculares, diagnóstico temprano de cáncer e incluso recuperación de miembros físicos. Algunos expresaron su desconocimiento del tema. Estos casos expuestos van en relación a dos aplicaciones análisis de imágenes (uso de visión de computadora y procesamiento de imágenes) como uso de internet de las cosas respecto al monitoreo. No se expresó de esa forma, pero si se tiene un conocimiento vago y favorable respecto al uso de inteligencia artificial en las áreas médicas. 
+
+Aunque en menor medida analizando respuestas a varias de las preguntas hemos detectado que algunas personas creen que la inteligencia artificial puede o podrá ser utilizada, no solo para diagnóstico y tareas de rutina sino también para la búsqueda y descubrimiento de nuevos tratamientos y medicamentos.
+Page Break
+ 
+
+REFERENCIAS BIBLIOGRÁFICAS 
+
+ 
+
+ 
+
+ seres
+humanos
+medico
+IA
+deteccion
+
