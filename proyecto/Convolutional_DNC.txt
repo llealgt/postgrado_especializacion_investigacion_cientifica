@@ -12,12 +12,12 @@ r_w = read weighting  1xN, one per read head
 r = read vector (weighted sum over memory locations) 1xW , matmul(r_w,memory), has to be instance var. 
     tensor should be RxW (one row per read vector , one column per memory value) flattened to vector 1XR*W (done,why instance var?)
 
-w_w = write weighting Nx1 
+w_w = write weighting Nx1  (partially implemented, missing temporady and dynamic allocaiton)
 Defined by the write head:
-e = erase vector 1xW  (what to delete from memory
-v = write vector 1xW  (what to add to memory)
-k_w  = write key 1xW     (for content lookp to find previously written locations to edit,helps define a weighting over memory locations)
-β_w = write strenght , result of aplying oneplus to a interface vector section. 1x1
+e_t = erase vector 1xW  (what to delete from memory) (done)
+v_t = write vector 1xW  (what to add to memory) (done)
+k_w  = write key 1xW     (for content lookp to find previously written locations to edit,helps define a weighting over memory locations)(done)
+β_w = write strenght , result of aplying oneplus to a interface vector section. 1x1 (done)
 
 k_r  = read key vector 1xW (for content lookup atention) part of interface parameters
        tensor shold be RxW (done)
