@@ -1,0 +1,66 @@
+hyper params and configs:
+R = number of read heads
+N = size of memory(positions)
+W = word size of memory(elements per position)
+Y = size of target vector
+Any = size of controller output vector
+
+
+memory: NxW (done)
+r_w = read weighting  1xN, one per read head
+      tensor should be RxN (partially implemented(similarity) still missing temporary
+r = read vector (weighted sum over memory locations) 1xW , matmul(r_w,memory), has to be instance var. 
+    tensor should be RxW (one row per read vector , one column per memory value) flattened to vector 1XR*W (done,why instance var?)
+
+w_w = write weighting Nx1 
+Defined by the write head:
+e = erase vector 1xW  (what to delete from memory
+v = write vector 1xW  (what to add to memory)
+k_w  = write key 1xW     (for content lookp to find previously written locations to edit,helps define a weighting over memory locations)
+β_w = write strenght , result of aplying oneplus to a interface vector section. 1x1
+
+k_r  = read key vector 1xW (for content lookup atention) part of interface parameters
+       tensor shold be RxW (done)
+
+β_r = read strengts result o appying oneplus to part of interface parameters.
+    vector of R elements Rx1 (done)
+L = temporal link matrix NxN (value L[i,j] is close to 1 if i was the next memory location writtern after j, 0 otherwise)
+u_t  = usage 1xN (or maybe Nx1? ) values between 0 and 1, 1 = very used , 0 = unused , closed to unused locations are delivered to the write head
+    Usage is incremented on every write, and optionally decreased on every read
+    read modes ?x? (interolate between memory reading by content or by temporal linkage backward or forward)
+ 
+f = free gates ,result of sigmoid to part of interface parameters 1xR
+g_a = allocation gate, result of sigmoid to part of interface parameters 1x1
+g_w = write gate , result of sigmoid to part of interface parameters 1x1
+π  = read modes , resslt o sotmax to  part of interface parameters. One per read head.
+     Rx3
+
+x_t = input vector at time step t 1xX (maybe flatten images? to be able to concat to the read vectors)
+X_t = input vector to the controller at time step t, concatnation of x_t and read vectors tensor at time step t -1
+z_t = output target vector at step t 1xY
+
+y_t = output prediction at step t  1xY  ,v_r_t + v_o_t   (done, just check activation funciton, now is sigmoid)   
+h_t = controller output (which is not the same as DNC output) 1xAny (Any is desired size output of controller) (done)
+W_y = weihts to parametrize output v_o_t as function of controller output  Any*Y (done)
+v_o_t = output vector at time step t  1XY  matmul(h_t,W_y) (done)
+ξ_t  =  interface vector at time step t (W×R)+3W+5R+3  (done)
+W_ξ = weights to parametrize interface  vector as function of controller output Any*(W×R)+3W+5R+3 (done)
+W_r = weights to parametrize the read vectors to get the output y_t  (R*W)XY  (done)
+v_r_t = outpt vector at time step t function of read vectors  1XY matmul(read vectors tensor,W_r) (done)
+
+
+
+
+Atention:
+ - content lookp with a similarity score to a key vector(asssociative data structures)
+ - Temporal access via L (sequential retrieval of inputs)
+ - write memory allocation(provide write heads with unused locations)
+Read modes to interpolate between reading by content with the read key, reading forwards or backwards in the order written.
+
+
+
+Ideas:
+ - to use a flag that determines "last" image to retrieve prediction
+ - to retrieve prediction for every "seen" image
+ - to flatten images then feeding to the dnc but then doing reshape for feeding to the convnet
+ - to do sctochastic(one sample at a time), later idea: test batches
