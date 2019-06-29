@@ -18,7 +18,7 @@ e_t = erase vector 1xW  (what to delete from memory) (done)
 v_t = write vector 1xW  (what to add to memory) (done)
 k_w  = write key 1xW     (for content lookp to find previously written locations to edit,helps define a weighting over memory locations)(done)
 β_w = write strenght , result of aplying oneplus to a interface vector section. 1x1 (done)
-ψ  = retention vector,how much every memory location will be retained by the free gates. 1*N
+ψ  = retention vector,how much every memory location will be retained by the free gates. 1*N (done)
 
 k_r  = read key vector 1xW (for content lookup atention) part of interface parameters
        tensor shold be RxW (done)
@@ -27,8 +27,10 @@ k_r  = read key vector 1xW (for content lookup atention) part of interface param
     vector of R elements Rx1 (done)
 L = temporal link matrix NxN (value L[i,j] is close to 1 if i was the next memory location writtern after j, 0 otherwise)
 u_t  = usage vector 1xN (or maybe Nx1? ) values between 0 and 1, 1 = very used , 0 = unused , closed to unused locations are delivered to the write head
-    Usage is incremented on every write, and optionally decreased on every read
+    Usage is incremented on every write, and optionally decreased on every read (done)
     read modes ?x? (interolate between memory reading by content or by temporal linkage backward or forward)
+
+φ  = free list, indices of memory locations ordered by usage
  
 f_t = free gates ,result of sigmoid to part of interface parameters 1xR
 g_a = allocation gate, result of sigmoid to part of interface parameters 1x1
